@@ -18,7 +18,7 @@ public class Main {
                 15,//13
                 44,//14
         };
-        new Addition(random);
+        new Addition(random) ;
     }
     }
 
