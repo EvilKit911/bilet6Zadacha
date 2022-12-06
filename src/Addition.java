@@ -10,7 +10,7 @@ public class Addition {
             if (random[i] % 2 != 0 ) {
                 random[i] += 1;
             }
-            System.out.println( "№ "+ i +"  "+ random[i]);
+            System.out.println( "№ "+ i +"  "+ random[i]) ;
         }
 
 
